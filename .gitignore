@@ -15,3 +15,7 @@ __pycache__/
 /examples/mrz_generator_samples/id_card_ivan.py
 /docs/ICAO9303/*/*.pdf
 /docs/ICAO9303/*/*.md
+.vscode
+/build
+/dist
+
